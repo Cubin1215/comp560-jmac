@@ -29,6 +29,7 @@ building_blocks = [
     'Nish Kolla'
     'Hemanth Kapa'
     'Radiath Kamal Patwary'
+    'Tayyaba Jadoon'
 ]
 
 target_length = 1_000_000  # about 1MB will be plenty of training data
